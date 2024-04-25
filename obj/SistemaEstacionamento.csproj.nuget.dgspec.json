@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj": {}
+    "c:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj": {
+    "c:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj",
+        "projectUniqueName": "c:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj",
         "projectName": "SistemaEstacionamento",
-        "projectPath": "C:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj",
+        "projectPath": "c:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\SistemaEstacionamento.csproj",
         "packagesPath": "C:\\Users\\range\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\obj\\",
+        "outputPath": "c:\\Users\\range\\OneDrive\\Área de Trabalho\\SistemaEstacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\range\\AppData\\Roaming\\NuGet\\NuGet.Config",

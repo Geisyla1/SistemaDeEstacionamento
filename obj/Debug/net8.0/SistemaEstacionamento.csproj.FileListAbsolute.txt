@@ -12,3 +12,4 @@ C:\Users\range\OneDrive\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0
 C:\Users\range\OneDrive\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.pdb
 C:\Users\range\OneDrive\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.genruntimeconfig.cache
 C:\Users\range\OneDrive\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\ref\SistemaEstacionamento.dll
+C:\Users\range\OneDrive\Área de Trabalho\SistemaEstacionamento\obj\Debug\net8.0\SistemaEstacionamento.sourcelink.json
